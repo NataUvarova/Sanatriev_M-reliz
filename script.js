@@ -36,25 +36,25 @@ const products = [
       image: 'https://watches-master.ua/uploads/files/CatalogProducts/images_46680/967b16.jpg'
     },
     {
-      id: 6,
+      id: 7,
       name: 'Рюкзак',
       price: 10000,
       image: 'https://cc98ea11-9cf2-4cd4-b74d-bbd51bc86f3d.selcdn.net/images/d_large/167654300.jpg'
     },
     {
-      id: 6,
+      id: 8,
       name: 'Окуляри',
       price: 3000,
       image: 'https://images.shafastatic.net/-63576383'
     },
     {
-      id: 6,
+      id: 9,
       name: 'Джинси',
       price: 3000,
       image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTItCBdaN7o_TF9h6ZXLrZ3M_Hs0Tg4O5sA&s'
     },
     {
-      id: 6,
+      id: 10,
       name: 'Крокси',
       price: 3000,
       image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOtURGX_ZY9J3nUA1Eq0xEpdKOsFOqJMGs4Q&s'
